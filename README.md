@@ -1,2 +1,2 @@
 # CRUD-PHP
-A simple CRUD system for orange digital center to add, update, see, and delete students in the Mysql database
+A simple CRUD system for orange digital center to manage students and sending the changes to the database
